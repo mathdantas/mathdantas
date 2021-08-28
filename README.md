@@ -1,4 +1,4 @@
-## Olá! Prazer, Matheus Dantas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42px" style="max-width:100%;">
+## Olá! Prazer, Matheus Dantas. 
 
 <div>
   <a href="https://github.com/mathdantas">
