@@ -23,7 +23,7 @@
   
 - Full-stack Developer na [Devs For You](http://www.devs4you.com.br/)
 - Engenheiro de Computação
-- Atualmente estou aprendendo mais sobre C# e .NET
+- Atualmente estou aprendendo mais sobre Docker
 - Me considero um profissional t-Shaped. Atuo em desenvolvimento web, mas possuindo bases sólidas e experiência em UI, Machine Learning, Redes e Hardware, minha área de formação. 
 - Apaixonado por empreededorismo, economia e geopolítica. 
 
