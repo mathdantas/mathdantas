@@ -33,7 +33,10 @@
 ### Últimos livros lidos 📚
 ### Livros técnicos favoritos 📚
 ### Artigos favoritos 📃
-
+   Docker: Do Zero a Marinheiro<br/>
+   por: Christian Costa<br/>
+   https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76
+  
 ##
 
 <div> 
