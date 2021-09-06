@@ -32,10 +32,11 @@
 ### Lendo atualmente 📚
 ### Últimos livros lidos 📚
 ### Livros técnicos favoritos 📚
+[C: Completo e Total](https://www.amazon.com.br/C-completo-total-Herbert-Schildt/dp/8534605955/ref=sr_1_1?adgrpid=83848702769&dchild=1&hvadid=426015975287&hvdev=c&hvlocphy=9101507&hvnetw=g&hvqmt=e&hvrand=3914466573689197410&hvtargid=kwd-388890860841&hydadcr=5628_11235155&keywords=c+completo+e+total&qid=1630894770&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)<br/>
+Autor:  Herbert Schildt
 ### Artigos favoritos 📃
-   Docker: Do Zero a Marinheiro<br/>
-   por: Christian Costa<br/>
-   https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76
+   [Docker: Do Zero a Marinheiro](https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76)<br/>
+   Autor: Christian Costa<br/>
   
 ##
 
