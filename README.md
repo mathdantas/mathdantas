@@ -21,7 +21,7 @@
 ##
 
   
-- Analista de Ciência de Dados JR no Itaú Unibanco [u](https://www.itau.com.br/)
+- Analista de Ciência de Dados JR no Itaú Unibanco
 - Engenheiro de Computação
 - Atualmente estou aprendendo mais sobre Docker e Ciência de Dados
 - Me considero um profissional t-Shaped. Atuo em desenvolvimento web, mas possuindo bases sólidas e experiência em UI, Machine Learning, Redes e Hardware, minha área de formação. 
