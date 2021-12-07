@@ -21,9 +21,9 @@
 ##
 
   
-- Full-stack Developer na [Devs For You](http://www.devs4you.com.br/)
+- Analista de Ciência de Dados JR no Itaú Unibanco [u](https://www.itau.com.br/)
 - Engenheiro de Computação
-- Atualmente estou aprendendo mais sobre Docker
+- Atualmente estou aprendendo mais sobre Docker e Ciência de Dados
 - Me considero um profissional t-Shaped. Atuo em desenvolvimento web, mas possuindo bases sólidas e experiência em UI, Machine Learning, Redes e Hardware, minha área de formação. 
 - Apaixonado por empreededorismo, economia e geopolítica. 
 
