@@ -21,15 +21,15 @@
 ##
 
   
-- Analista de Ciência de Dados JR no Itaú Unibanco
-- Engenheiro de Computação
-- Atualmente estou aprendendo mais sobre Docker e Ciência de Dados
-- Me considero um profissional t-Shaped. Atuo em desenvolvimento web, mas possuindo bases sólidas e experiência em UI, Machine Learning, Redes e Hardware, minha área de formação. 
-- Apaixonado por empreededorismo, economia e geopolítica. 
+- Data Engineer at Itaú Unibanco, Brazil
+- Data Engineet
+- Currently studying AWS and Spark technologies
+- I consider myself a T-Shaped professional. I have experience in Web development, UI Design, Machine Learning, Computer Networks and Hardware.
+- Passionate about technology and politics. 
 
 ##
 
-### Lendo atualmente 📚
+### Currently reading 📚
   
 [No sufoco](https://www.amazon.com.br/No-sufoco-Chuck-Palahniuk-ebook/dp/B00ZSVO18I/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=No+sufoco&qid=1630896962&s=digital-text&sr=1-1)<br/>
 Autor: Chuck Palahniuk.
@@ -37,7 +37,7 @@ Autor: Chuck Palahniuk.
 [A startup enxuta](https://www.amazon.com.br/startup-enxuta-Eric-Ries-ebook/dp/B07Z46K4KQ/ref=sr_1_3?dchild=1&keywords=startup+enxuta&qid=1630897039&s=digital-text&sr=1-3)<br/>
 Autor: Eric Ries.
   
-### Últimos livros lidos 📚
+### Latest books read 📚
  
 [O espadachim de carvão e as pontes de Puzur](https://www.amazon.com.br/espadachim-carv%C3%A3o-pontes-Puzur-ebook/dp/B014I7TJ5C/ref=reads_cwrtbar_1/145-0257154-7645340?pd_rd_w=j3Edr&pf_rd_p=f0989065-fdf0-44f6-89ba-12ac8c8cc0a8&pf_rd_r=3B4MY15REWY56YYCEDYR&pd_rd_r=91bd2d55-399f-4ce5-9d3f-980f8ea4820f&pd_rd_wg=bFCbx&pd_rd_i=B014I7TJ5C&psc=1)<br/>
 Autor: Affonso Solano.
@@ -45,7 +45,7 @@ Autor: Affonso Solano.
 [O espadachim de carvão](https://www.amazon.com.br/espadachim-carv%C3%A3o-Affonso-Solano-ebook/dp/B00BYKZK2S/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=espadachim&qid=1630897118&s=digital-text&sr=1-1)<br/>
 Autor: Affonso Solano.  
   
-### Livros técnicos favoritos 📚
+### Favorite technical books 📚
   
 [C: Completo e Total](https://www.amazon.com.br/C-completo-total-Herbert-Schildt/dp/8534605955/ref=sr_1_1?adgrpid=83848702769&dchild=1&hvadid=426015975287&hvdev=c&hvlocphy=9101507&hvnetw=g&hvqmt=e&hvrand=3914466573689197410&hvtargid=kwd-388890860841&hydadcr=5628_11235155&keywords=c+completo+e+total&qid=1630894770&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)<br/>
 Autor:  Herbert Schildt
@@ -60,7 +60,7 @@ Autores: Ramez Elmasri e Shamkant B. **Navathe**.
 [Redes de Computadores e a Internet: Uma Abordagem Top-Down](https://www.amazon.com.br/Redes-computadores-internet-abordagem-top-down/dp/8581436773/ref=sr_1_1?dchild=1&keywords=redes+de+computadores+kurose&qid=1630896789&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)<br/>
 Autores: Jim **Kurose** e Keith Ross.
   
-### Artigos favoritos 📃
+### Favorite articles 📃
   
   [Docker: Do Zero a Marinheiro](https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76)<br/>
   Autor: Christian Costa.<br/>
