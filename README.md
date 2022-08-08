@@ -1,4 +1,5 @@
-## Olá! Prazer, Matheus Dantas. 
+## Hey! Welcome to my profile.
+## I'm Matheus Dantas. 
 
 <div>
   <a href="https://github.com/mathdantas">
