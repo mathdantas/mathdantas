@@ -21,8 +21,6 @@ I'm Matheus Dantas.
 
 ##
 
-  
-- Data Engineer at Itaú Unibanco, Brazil
 - Data Engineet
 - Currently studying AWS and Spark technologies
 - I consider myself a T-Shaped professional. I have experience in Web development, UI Design, Machine Learning, Computer Networks and Hardware.
